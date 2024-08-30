@@ -1,0 +1,3 @@
+#!/bin/bash
+cd Fooocus
+python entry_with_update.py --share --always-high-vram --preset sai
